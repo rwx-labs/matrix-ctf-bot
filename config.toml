@@ -1,0 +1,10 @@
+[matrix]
+  # The initial display name when first logging in.
+  initial_display_name = "meta"
+
+  [matrix.space]
+  # The room ID of the top-most space.
+  room_id = "!jbqE8UoWrOy6l2IF:rwx.im"
+
+[ctf]
+
